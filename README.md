@@ -36,8 +36,16 @@ python wsgi_google_login.py
 4. remember to use app.run()
 5. Set to publish once it works
 
-## Strange Bugs
-** this can be tricky **. Sometimes, you get mismatching URL error even though you've used correct url. Simply try to use https://www.yourdomain.com/auth will solve it.
+## Some Commonly Seen Bugs/Errors
+
+1. Mismatching URL
+2. State variable is none/empty
+3. Session not exist after callback
+4. Gunicorn multiple workers do not have same app secrets
+5. **this can be tricky**. Sometimes, you get mismatching URL error even though you've used correct url. Simply try to use https://www.yourdomain.com/auth will solve it.
+6. etc
+
+I think this one solves all of these. At least these are problems that had annoyed me for ages.
 
 ## To do
 Please message me if you know good solution for below:
