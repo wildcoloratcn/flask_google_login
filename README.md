@@ -21,8 +21,8 @@ python wsgi_google_login.py
 
 ## to do
 message me if you know good solution
-[] flask twitter login
-[] flask facebook login
+-[] flask twitter login
+-[] flask facebook login
 
 ## star project for future development
 
