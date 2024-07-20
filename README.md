@@ -2,7 +2,7 @@
 
 There are many tutorials and libraries on Google Login with Flask. I've tried so many of them. But this one is neat, simple and it simply just works.
 
-I put everything in one file.
+I put everything in one file for easy understanding.
 
 ## Usage
 
@@ -19,10 +19,10 @@ pip install Flask Authlib
 python wsgi_google_login.py
 ```
 
-## to do
-message me if you know good solution
--[] flask twitter login
--[] flask facebook login
+## To do
+Please message me if you know good solution for below:
+- [ ] flask twitter login
+- [ ] flask facebook login
 
 ## star project for future development
 
