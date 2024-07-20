@@ -36,6 +36,8 @@ python wsgi_google_login.py
 4. remember to use app.run()
 5. Set to publish once it works
 
+
+
 ## Some Commonly Seen Bugs/Errors
 
 1. Mismatching URL
@@ -52,5 +54,5 @@ Please message me if you know good solution for below:
 - [ ] flask twitter login
 - [ ] flask facebook login
 
-## star project for future development
+## Star the project so you can use it for future development
 
