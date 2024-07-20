@@ -36,6 +36,9 @@ python wsgi_google_login.py
 4. remember to use app.run()
 5. Set to publish once it works
 
+## Strange Bugs
+** this can be tricky **. Sometimes, you get mismatching URL error even though you've used correct url. Simply try to use https://www.yourdomain.com/auth will solve it.
+
 ## To do
 Please message me if you know good solution for below:
 - [ ] flask twitter login
