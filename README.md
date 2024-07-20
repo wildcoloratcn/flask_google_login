@@ -30,7 +30,11 @@ python wsgi_google_login.py
 ### For Deployment
 1. for deployment add https://yourdomain.com/auth
    if you use blueprint, adjust accordingly
-2. Set to publish once it works
+2. use SSL on server
+3. comment out
+   ```os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = "1"```
+4. remember to use app.run()
+5. Set to publish once it works
 
 ## To do
 Please message me if you know good solution for below:
