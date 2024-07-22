@@ -1,12 +1,12 @@
 # Google Login For Flask
 
-There are many tutorials and libraries on Google Login with Flask. I've tried so many of them. Some of them are old, not working, missing deployment ....
+There are many tutorials and libraries on Google Login with Flask. I've tried so many of them. Some of them are old, not working, no deployment instructions....
 
-But this one is neat, simple and it simply just works.
+But this one is neat, simple and it just works.
 
 I put everything in one file for easy understanding.
 
-I also included instructions for development and deployment.
+I also included instructions for both development and deployment.
 
 ## Usage
 
